@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Zap, TrendingUp, Shield, Rocket, ChartColumn, Layers, Menu, X, CircleAlert, ArrowUp } from "lucide-react"
+import { Zap, TrendingUp, Shield, Rocket, Columns as ChartColumn, Layers, Menu, X, AlertCircle as CircleAlert, ArrowUp } from "lucide-react"
 
 export default function Home() {
   return (
